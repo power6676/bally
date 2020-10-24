@@ -1,1 +1,2 @@
-# bally
+# synchronousBallMovement
+Ball moving synchronously
